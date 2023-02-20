@@ -625,10 +625,7 @@ margin-top: 160px;
     height: 560px;
   }
   .hero-banner-image{
-    width: 77%;
-    height: 62%;
-    top: -2%;
-    right: -6%;
+    display: none;
   }
   .footer-banner-container{
     height: 560px;
@@ -763,3 +760,4 @@ margin-top: 160px;
   margin: auto;
 }
 }
+
